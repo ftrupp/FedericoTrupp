@@ -1,2 +1,5 @@
-# FedericoTrupp
-About me
+# About me
+I am Federico Trupp, PhD in physics, specilized in polymers and composite materials, and now starting my journey as a data scientist.
+<!-- Over 8 years of experience in experimental physics with a specialization in polymers and composite materials. Proven track record in contributing to technological innovation and effective technology transfers to industry partners. Extensive collaborations in multidisciplinary teams leading to significant market success with products such as Atom Protect Facemasks. Skilled in scientific writing (6 scientific publications), research and development (R&D), and the application of machine learning algorithms to material science.--!>
+<br/>
+As an experimental physicist, I have worked on diverse projects, including academic research and industry-oriented applications, leveraging systematic experimental design, mathematical models, and programming to deeply understand and solve concrete problems. I am highly motivated, and enjoy taking on new challenges, quickly learning whatever is needed to tackle them. With over five years of experience teaching physics at the university level and a strong foundation in outreach activities, I have developed excellent communication skills, allowing me to effectively translate technical information for non-scientific audiences.
